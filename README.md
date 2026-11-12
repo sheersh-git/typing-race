@@ -202,9 +202,3 @@ You can test multiplayer races in two convenient ways:
   ```
 
 ---
-
-## 10. License
-
-MIT &copy; [Varun S](https://github.com/Varun24-s). Distributed under the MIT License.
-#   t y p i n g - r a c e  
- 
